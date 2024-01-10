@@ -1,0 +1,15 @@
+/Users/salim/RiderProjects/UniqueString/UniqueString/obj/Debug/net6.0/UniqueString.csproj.AssemblyReference.cache
+/Users/salim/RiderProjects/UniqueString/UniqueString/obj/Debug/net6.0/UniqueString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salim/RiderProjects/UniqueString/UniqueString/obj/Debug/net6.0/UniqueString.AssemblyInfoInputs.cache
+/Users/salim/RiderProjects/UniqueString/UniqueString/obj/Debug/net6.0/UniqueString.AssemblyInfo.cs
+/Users/salim/RiderProjects/UniqueString/UniqueString/obj/Debug/net6.0/UniqueString.csproj.CoreCompileInputs.cache
+/Users/salim/RiderProjects/UniqueString/UniqueString/bin/Debug/net6.0/UniqueString
+/Users/salim/RiderProjects/UniqueString/UniqueString/bin/Debug/net6.0/UniqueString.deps.json
+/Users/salim/RiderProjects/UniqueString/UniqueString/bin/Debug/net6.0/UniqueString.runtimeconfig.json
+/Users/salim/RiderProjects/UniqueString/UniqueString/bin/Debug/net6.0/UniqueString.dll
+/Users/salim/RiderProjects/UniqueString/UniqueString/bin/Debug/net6.0/UniqueString.pdb
+/Users/salim/RiderProjects/UniqueString/UniqueString/obj/Debug/net6.0/UniqueString.dll
+/Users/salim/RiderProjects/UniqueString/UniqueString/obj/Debug/net6.0/refint/UniqueString.dll
+/Users/salim/RiderProjects/UniqueString/UniqueString/obj/Debug/net6.0/UniqueString.pdb
+/Users/salim/RiderProjects/UniqueString/UniqueString/obj/Debug/net6.0/UniqueString.genruntimeconfig.cache
+/Users/salim/RiderProjects/UniqueString/UniqueString/obj/Debug/net6.0/ref/UniqueString.dll
